@@ -1,3 +1,5 @@
+[![Build Status](https://akashkumar8k.visualstudio.com/Practice-AZ-400/_apis/build/status/akashkumr094.pipelines-java?branchName=master)](https://akashkumar8k.visualstudio.com/Practice-AZ-400/_build/latest?definitionId=13&branchName=master)
+
 
 # Contributing
 
